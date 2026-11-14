@@ -4,6 +4,7 @@ Smart Mess In/Out, Laundry Booking & Billing System.
 **CS-101 Computing & Artificial Intelligence – Semester Project (Fall 2026)**
 
 this is made by group of 4 BsCS students of batch 36
+
 ASHMAN SHABIR AWAN (2026140)
 MAAZ GOHAR (2026320)
 SYED TAYYAB HUSSAIN (2026744)
