@@ -1,1 +1,4 @@
-regNo,name,room,password
+2026001,Usman Tariq,A-001,usman7
+2026123,Ali Khan,B-214,ali123
+2026150,Sara Ahmed,G-110,sara99
+2026311,Hamza Ali,C-108,hamza1
